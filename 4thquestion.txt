@@ -1,0 +1,17 @@
+I have worked 3 projects in which 2 are front end and onother is a Full stack project.
+They are:
+   1:Calci.Com  Project Link : https://pranaychowdary5.github.io/Calci.com/
+     • The aim of this project is to make calculator convenient to the user
+       by switching modes
+     • Used HTML,CSS and JavaScript.
+   2:Add Notes
+     • The goal of this project is that we can take important notes and save them. 
+       We can search in it and also perform the delete.
+     • Used HTML, Bootstrap and JavaScript.
+     • Used JSON method of JavaScript.
+   3.University Admission System
+     •The main perspective of this project is to provide an online platform for student 
+      registration with a secure Payment gateway and easy access. 
+     •SRS Software Requirement System student registration system, DBMS Database Management 
+      System provides various booking options so that they can reserve the course of their choice. 
+     •Performed Manual Testing, Unit Testing, and Integration Testing. 
